@@ -5,3 +5,8 @@ print("Array:", arr)
 
 print("Mean:", np.mean(arr))
 print("Sum:", np.sum(arr))
+
+print("Shape:", arr.shape)
+print("Size:", arr.size)
+print("Data Type:", arr.dtype)
+print("Dimensions:", arr.ndim)
